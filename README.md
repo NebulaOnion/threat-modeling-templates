@@ -14,3 +14,11 @@ Goals:
 Contributing:
 
 If you make your own custom threat model and think other people might benefit from it, please make a PR
+
+
+File formats we aim to support:
+
+- ODT (Recommended)
+- PDF/A
+- DOCX
+- Markdown (MD)
