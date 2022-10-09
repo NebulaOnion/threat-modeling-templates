@@ -1,4 +1,4 @@
-This document contains templates for threat modeling.
+This repository contains templates for threat modeling.
 
 Why?
 
