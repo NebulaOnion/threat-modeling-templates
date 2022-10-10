@@ -1,4 +1,6 @@
-This repository contains templates for threat modeling.
+# Threat modeling templates
+
+## This repository contains templates for threat modeling.
 
 Why?
 
