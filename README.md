@@ -12,6 +12,7 @@ by offering simple templates with included instructions to make sure that everyo
 - Making threat modeling easier
 - Allow making your own custom threat model
 - Allow combinations too
+- Our priority should always be quality and precise information rather than quantity
 
 **Contributing:**
 
