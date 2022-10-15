@@ -23,3 +23,11 @@ If you make your own custom threat model and think other people might benefit fr
 - Markdown (MD)
 - ODT
 - PDF/A
+
+## Where do I start?
+
+To start, click this link, it'll take you to a file we created to introduce people to this.
+
+## Contact
+
+You can contact us by opening a GitHub Issue, Discussion or by joining our Matrix room by clicking this invite link.
