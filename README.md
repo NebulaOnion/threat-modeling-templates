@@ -20,7 +20,6 @@ If you make your own custom threat model and think other people might benefit fr
 
 File formats we aim to support:
 
-- ODT (Recommended)
-- PDF/A
-- DOCX
 - Markdown (MD)
+- ODT
+- PDF/A
