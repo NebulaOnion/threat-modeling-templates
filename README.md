@@ -31,4 +31,4 @@ To start, click this link, it'll take you to a file we created to introduce peop
 
 ## Contact
 
-You can contact us by opening a GitHub Issue, Discussion or by joining our Matrix room by clicking this invite link.
+You can contact us by opening a GitHub Issue, Discussion or by joining our Matrix room by clicking [this invite link.](https://matrix.to/#/#threat-mod-temp:anonymousland.org)
